@@ -1,0 +1,53 @@
+ATS connected!
+
+
+
+PeerStatus!
+{ event: 'PeerStatus',
+  privilege: 'system,all',
+  channeltype: 'SIP',
+  peer: 'SIP/101',
+  peerstatus: 'Unregistered',
+  cause: 'Expired' }
+PeerStatus!
+{ event: 'PeerStatus',
+  privilege: 'system,all',
+  channeltype: 'SIP',
+  peer: 'SIP/101',
+  peerstatus: 'Registered',
+  address: '192.168.10.16:60086' }
+
+
+
+PeerStatus!
+{ event: 'PeerStatus',
+  privilege: 'system,all',
+  channeltype: 'SIP',
+  peer: 'SIP/SIP-PROVIDER-220730014573d66238624d',
+  peerstatus: 'Unreachable',
+  time: '-1' }
+
+
+PeerStatus!
+{ event: 'PeerStatus',
+  privilege: 'system,all',
+  channeltype: 'SIP',
+  peer: 'SIP/SIP-PROVIDER-7021498465422fd4fcac0a',
+  peerstatus: 'Unreachable',
+  time: '-1' }
+
+
+PeerStatus!
+{ event: 'PeerStatus',
+  privilege: 'system,all',
+  channeltype: 'SIP',
+  peer: 'SIP/SIP-PROVIDER-220730014573d66238624d',
+  peerstatus: 'Reachable',
+  time: '97' }
+PeerStatus!
+{ event: 'PeerStatus',
+  privilege: 'system,all',
+  channeltype: 'SIP',
+  peer: 'SIP/SIP-PROVIDER-7021498465422fd4fcac0a',
+  peerstatus: 'Reachable',
+  time: '84' }

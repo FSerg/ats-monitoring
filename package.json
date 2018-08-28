@@ -1,0 +1,30 @@
+{
+  "name": "ATS-monitoring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "nodemonConfig": {
+    "delay": "2000"
+  },
+  "scripts": {
+    "dev": "nodemon --watch src/ --exec node -r esm ./src/index.js",
+    "start": "node -r esm ./src/index.js"
+  },
+  "author": "Sergey Filkin",
+  "dependencies": {
+    "asterisk-manager": "^0.1.16",
+    "core-decorators": "^0.20.0",
+    "esm": "^3.0.80",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "mikronode": "^2.3.11",
+    "node-telegram-bot-api": "^0.30.0",
+    "socks5-https-client": "^1.2.1",
+    "telegram-bot-api": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}

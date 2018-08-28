@@ -1,0 +1,289 @@
+{
+  "log": [
+    {
+      "timestamp": "2018-08-27T08:41:12.245Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-27T08:41:14.222Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-27T08:41:36.342Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T08:41:38.329Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T10:06:35.350Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T10:06:45.385Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T10:19:02.488Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T10:19:12.625Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T10:41:09.974Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T10:41:20.145Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T14:09:01.586Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T14:09:11.722Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T14:13:07.147Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T14:13:17.182Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T14:38:09.712Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T14:38:19.849Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T14:54:26.531Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T14:54:36.593Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T14:57:22.331Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T14:57:32.495Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-27T15:23:04.494Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-27T15:23:15.567Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T06:34:26.930Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T06:34:37.004Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T07:18:54.521Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T09:57:57.979Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T09:58:08.144Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:09:35.237Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:09:36.683Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:09:59.342Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:10:00.761Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:17:48.542Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:17:51.605Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:18:12.673Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:18:13.788Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:22:42.392Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:22:43.126Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:27:03.412Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T11:27:13.472Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:27:35.467Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:27:37.742Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:29:58.690Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:30:00.918Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Unreachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:30:22.902Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:30:23.132Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T11:40:35.267Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T11:40:45.385Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T12:08:27.174Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T12:08:37.276Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T12:09:00.610Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T12:09:10.691Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T12:16:46.281Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T12:16:56.371Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T12:24:14.697Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T12:24:24.768Z",
+      "provider": "SIP/SIP-PROVIDER-7021498465422fd4fcac0a",
+      "status": "Reachable"
+    },
+    {
+      "timestamp": "2018-08-28T12:32:25.222Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Lagged"
+    },
+    {
+      "timestamp": "2018-08-28T12:32:35.322Z",
+      "provider": "SIP/SIP-PROVIDER-220730014573d66238624d",
+      "status": "Reachable"
+    }
+  ]
+}
